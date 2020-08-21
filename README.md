@@ -3,15 +3,19 @@
 
 ------
 #### Little about me:
-* Curious, open-minded, empathetic, creative
+* Curious, open-minded, empathetic
+* Extraordinarily creative
 * Dedicated to continuous learning
 * Mega problem-solver with an attention to detail
-* Sharply intelligent and flexible 
-* Team-player with great communication skills 🤓 
+* Sharply intelligent
+* Flexible 
+* Team-player
+* Great communication skills 🤓 
+
 
 [View My working Portfolio](https://q118.github.io/shelby.anne/)
 
-Technical Skills
+
 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰
 ------------ | ------------- | ------------- | ------------- | ------------ | ------------- | ------------- | -------------  | -------------
 Git|Javascript|ReactJs|HTML5|MongoDB|CSS|VueJS|MVC|Algorithms
