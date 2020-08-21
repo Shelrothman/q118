@@ -11,7 +11,7 @@
 
 [View My working Portfolio](https://q118.github.io/shelby.anne/)
 
-#### Technical Skills
+Technical Skills
 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰
 ------------ | ------------- | ------------- | ------------- | ------------ | ------------- | ------------- | -------------  | -------------
 Git|Javascript|ReactJs|HTML5|MongoDB|CSS|VueJS|MVC|Algorithms
