@@ -1,8 +1,8 @@
-### Hello Human 👋 Thank you for visiting my GitHub Page! <a><img align="right" src="https://github.com/Q118/q118/blob/master/cartonn.jpg"></a>
+### Hello Humans! 👋 Thank you for visiting my GitHub Page! <a><img align="right" src="https://github.com/Q118/q118/blob/master/cartonn.jpg"></a>
 
 
 ------
-#### Litle about me:
+#### Little about me:
 * Curious, open-minded, empathetic, creative
 * Dedicated to continuous learning
 * Mega problem-solver with an attention to detail
