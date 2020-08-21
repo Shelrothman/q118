@@ -8,9 +8,9 @@
 * Mega problem-solver with an attention to detail
 * Sharply intelligent and flexible 
 * Team-player with great communication skills 🤓 
-------
+
 [View My working Portfolio](https://q118.github.io/shelby.anne/)
-------
+
 #### Experience with the following technology:
 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰
 ------------ | ------------- | ------------- | ------------- | ------------ | ------------- | ------------- | -------------  | -------------
