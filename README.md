@@ -4,7 +4,7 @@
 ------
 #### Little about me:
 * Curious, open-minded, empathetic 🪐
-* Extraordinarily creative 🧑
+* Extraordinarily creative 🎨
 * Dedicated to continuous learning, growing, and adapting ♾
 * Mega problem-solver with an attention to detail 🧩
 * Sharply intelligent 🤓 
