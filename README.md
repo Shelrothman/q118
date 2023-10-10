@@ -1,5 +1,5 @@
 ### Hello Humans! 👋 Thank you for visiting my GitHub Page! 
-<a><img align="right" src="https://github.com/Q118/q118/blob/master/cartoon2.jpg"></a>
+<a><img align="right" src="https://github.com/Q118/q118/blob/master/cartoon2.png"></a>
 
 
 ------
