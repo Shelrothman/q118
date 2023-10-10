@@ -18,12 +18,20 @@
 
 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰 | 💻  |  ⚙️ | 🖥️ | 🧰
 ------------ | ------------- | ------------- | ------------- | ------------ | ------------- | ------------- | -------------  | -------------
-Git|Javascript|ReactJs|HTML5|MongoDB|CSS|VueJS|MVC|Algorithms
-Postman|APIs|Sequelize|NoSQL|Async/Await|Express|PWAs|Robo 3T|Visual Studio Code
-Inquirer|Robo 3T|Heroku|ORM|IndexedDB|Handlebars|TDD|JSON|workbench
-jQuery|Bootstrap|GitHub|AJAX|VScode|Node|Mongoose|mySQL|Data Structures
-MongoDB|Postman|Web/Dom/3rdParty APIs|XML|Heroku|Typescript|SQL|Java|Python
+API Development|Javascript|JSON APIs|NodeJS|PWAs|REST|Typescript|Web API|GPT
+GraphQL|MongoDB|MSSQL|Jquery|JavaScript|HTML|ESLint|Next|React
+React Native|Bootstrap|SSR|Webpack|Authentication|Authorization|JWT|MFA|Oauth
+OpenID|Docker|Containerization|Cloudformation|Azure DevOps|AWS|SAML|Java|PHP
+Linq|Python|PostgreSQL|Pandas|PowerBI|Prompt Engineering|Optical Character Recognition|Responsive Design|SASS/SCSS
+Tailwind|Vue|VueJS|Angular|TensorFlow|Penetration Testing|Secure Coding Practices|AppDynamics|Azure Functions
+Terraform|MS Azure|Kubernetes|Spark|Redis|BigQuery|Apache Spark|Anaconda|Rust
+Flask|Elasticsearch|Delphi|Caching|.Net 6|gRPC|Kafka|RabbitMQ|SOAP
+Github Actions|GitOps|Jenkins|Natural Language Processing|Numpy|Large Language Model|Helm|HashiCorp Vault|Grafana
+GCP|Dynatrace|Chef|RBAC|Entitlements|Tableau|PyTorch|Microsoft Fabric|.Net 4.8|SQL Server
+SOAP/WCF|Spring|Azure Event Grid|CosmosDB|Data Warehouse|Databricks|Delta Lake|DynamoDB|gRPC
+Hadoop|Informatica|Jupyter|Kafka|Knowledge Graphs|Autoscaling|Event Driven Architecture|Microservices Architecture|Monorepos
+Multitenancy|Serverless|Service Mesh|Entity Framework|Expo Go|Apple AppStore Build|TDD|Bash
 
-📫 Get in touch with me by [Email](mailto:shelbyfish91@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shelby-anne-bb84131a4/).
+📫 Get in touch with me by [Email](mailto:shel.programmer@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shelby-anne-bb84131a4/).
 
 
