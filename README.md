@@ -1,4 +1,4 @@
-### Hello Humans! 👋 Thank you for visiting my GitHub Page! <a><img align="right" src="https://user-images.githubusercontent.com/62257716/281577478-4d3db4e5-6c74-49e0-97e7-0eca493ebba2.png"></a>
+### Hello Humans! 👋 Thank you for visiting my GitHub Page! <a> <img align="right" width=300 height=325 src="https://user-images.githubusercontent.com/62257716/281577478-4d3db4e5-6c74-49e0-97e7-0eca493ebba2.png"> </a>
 
 
 ------
